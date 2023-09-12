@@ -1,2 +1,1 @@
-# PracticaTratamientoDeDatos
-Practica numero 1 de clases
+# ciberseguridad-practica1-grupoA
